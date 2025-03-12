@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+<channel>
+<title>Wspó³rzêdne</title>
+<description>Lista wspó³rzêdnych</description>
+<link>https://bhmw.gov.pl/pl/news</link>
+
+<item>
+<title>Marker 1</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/108.png</link>
+<georss:point>54.659933333333335 18.677083333333336</georss:point>
+</item>
+
+<item>
+<title>Marker 2</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/109T.png</link>
+<georss:point>55.02033333333333 17.554833333333335</georss:point>
+</item>
+
+<item>
+<title>Marker 3</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/110T.png</link>
+<georss:point>54.61333333333334 16.835683333333332</georss:point>
+</item>
+
+<item>
+<title>Marker 4</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/111.png</link>
+<georss:point>54.07926666666667 14.595450000000001</georss:point>
+</item>
+
+<item>
+<title>Marker 5</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/112.png</link>
+<georss:point>53.940016666666665 14.2788</georss:point>
+</item>
+
+<item>
+<title>Marker 6</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/118T.png</link>
+<georss:point>55.11533333333333 17.6169</georss:point>
+</item>
+
+<item>
+<title>Marker 7</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/119T.png</link>
+<georss:point>55.07040000000001 17.595566666666667</georss:point>
+</item>
+
+<item>
+<title>Marker 8</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/120T.png</link>
+<georss:point>54.607816666666665 16.79191666666667</georss:point>
+</item>
+
+<item>
+<title>Marker 9</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/121T.png</link>
+<georss:point>54.592283333333334 15.331616666666667</georss:point>
+</item>
+
+<item>
+<title>Marker 10</title>
+<link>https://bhmw.gov.pl/c/news/img/2025/3/122T.png</link>
+<georss:point>54.209383333333335 14.617083333333333</georss:point>
+</item>
+</channel>
+</rss>
