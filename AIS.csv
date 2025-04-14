@@ -1,2 +1,2 @@
-Cog,CommunicationState,Latitude,Longitude,MessageID,NavigationalStatus,PositionAccuracy,Raim,RateOfTurn,RepeatIndicator,Sog,Spare,SpecialManoeuvreIndicator,Timestamp,TrueHeading,UserID,Valid,geometry
-256.4,1427,54.535333333333334,18.519385,3,0,False,False,-2,0,0,0,0,15,56,305067000,True,POINT (18.519385 54.535333333333334)
+AisVersion,CallSign,Destination,Dimension,Dte,Eta,FixType,ImoNumber,MaximumStaticDraught,MessageID,Name,RepeatIndicator,Spare,Type,UserID,Valid
+1,SQMB   ,,"{'A': 5, 'B': 27, 'C': 3, 'D': 6}",False,"{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}",1,8102581,0,5,AGIS                ,0,False,32,261000210,True
