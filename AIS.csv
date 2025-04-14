@@ -1,0 +1,2 @@
+Cog,CommunicationState,Latitude,Longitude,MessageID,NavigationalStatus,PositionAccuracy,Raim,RateOfTurn,RepeatIndicator,Sog,Spare,SpecialManoeuvreIndicator,Timestamp,TrueHeading,UserID,Valid,geometry
+256.4,1427,54.535333333333334,18.519385,3,0,False,False,-2,0,0,0,0,15,56,305067000,True,POINT (18.519385 54.535333333333334)
