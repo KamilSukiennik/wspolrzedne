@@ -1,2 +1,3 @@
-AisVersion,CallSign,Destination,Dimension,Dte,Eta,FixType,ImoNumber,MaximumStaticDraught,MessageID,Name,RepeatIndicator,Spare,Type,UserID,Valid
-1,SQMB   ,,"{'A': 5, 'B': 27, 'C': 3, 'D': 6}",False,"{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}",1,8102581,0,5,AGIS                ,0,False,32,261000210,True
+AisVersion,CallSign,Destination,Dimension,Dte,Eta,FixType,ImoNumber,MaximumStaticDraught,MessageID,Name,RepeatIndicator,Spare,Type,UserID,Valid,Cog,CommunicationState,Latitude,Longitude,NavigationalStatus,PositionAccuracy,Raim,RateOfTurn,Sog,SpecialManoeuvreIndicator,Timestamp,TrueHeading,geometry
+1.0,SQMB   ,,"{'A': 5, 'B': 27, 'C': 3, 'D': 6}",False,"{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}",1.0,8102581.0,0.0,5,AGIS                ,0,False,32.0,261000210,True,,,,,,,,,,,,,
+,,,,,,,,,1,,0,0,,538090596,True,93.7,2265.0,54.53559666666667,18.56672,0.0,True,True,0.0,7.4,0.0,12.0,89.0,POINT (18.56672 54.53559666666667)
