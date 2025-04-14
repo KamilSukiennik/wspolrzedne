@@ -1,5 +1,5 @@
 AisVersion,CallSign,Destination,Dimension,Dte,Eta,FixType,ImoNumber,MaximumStaticDraught,MessageID,Name,RepeatIndicator,Spare,Type,UserID,Valid,Cog,CommunicationState,Latitude,Longitude,NavigationalStatus,PositionAccuracy,Raim,RateOfTurn,Sog,SpecialManoeuvreIndicator,Timestamp,TrueHeading,geometry
-1.0,SQMB   ,,"{'A': 5, 'B': 27, 'C': 3, 'D': 6}",False,"{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}",1.0,8102581.0,0.0,5,AGIS                ,0,False,32.0,261000210,True,,,,,,,,,,,,,
+1.0,SQMB   ,,"{'A': 5, 'B': 27, 'C': 3, 'D': 6}",False,"{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}",1.0,8102581.0,0.0,3,AGIS                ,0,0,32.0,261000210,True,36.8,216730.0,54.40676,18.664518333333334,5.0,False,False,-128.0,0.0,0.0,26.0,511.0,POINT (18.664518333333334 54.40676)
 ,,,,,,,,,1,,0,0,,538090596,True,93.7,2265.0,54.53559666666667,18.56672,0.0,True,True,0.0,7.4,0.0,12.0,89.0,POINT (18.56672 54.53559666666667)
 2.0,9HA3252,PL GDN              ,"{'A': 83, 'B': 12, 'C': 6, 'D': 7}",False,"{'Day': 13, 'Hour': 7, 'Minute': 0, 'Month': 4}",1.0,9195860.0,3.8,5,KETTER              ,0,False,79.0,229344000,True,,,,,,,,,,,,,
 ,,,,,,,,,3,,0,0,,261159000,True,184.6,0.0,54.37685333333333,18.658483333333333,5.0,True,False,0.0,0.0,0.0,12.0,348.0,POINT (18.658483333333333 54.37685333333333)
