@@ -20,3 +20,4 @@ AisVersion,CallSign,Destination,Dimension,Dte,Eta,FixType,ImoNumber,MaximumStati
 2.0,5BTE4  ,PL GDY              ,"{'A': 80, 'B': 22, 'C': 8, 'D': 8}",False,"{'Day': 9, 'Hour': 11, 'Minute': 15, 'Month': 4}",3.0,9778002.0,4.7,5,AMULETH             ,0,False,89.0,209066000,True,,,,,,,,,,,,,
 2.0,SPG2625,GDY-HEL- GDY   ,"{'A': 7, 'B': 30, 'C': 3, 'D': 8}",False,"{'Day': 30, 'Hour': 0, 'Minute': 0, 'Month': 10}",15.0,8805949.0,3.0,5,AGAT,0,False,70.0,261001250,True,,,,,,,,,,,,,
 ,,,,,,,,,3,,0,0,,236297000,True,303.8,0.0,54.53834,18.524641666666664,5.0,False,False,0.0,0.0,0.0,22.0,295.0,POINT (18.524641666666664 54.53834)
+0.0,SPG2919,GDANSK              ,"{'A': 50, 'B': 9, 'C': 5, 'D': 4}",False,"{'Day': 25, 'Hour': 18, 'Minute': 0, 'Month': 2}",1.0,8937584.0,1.5,5,SMPRC110            ,0,False,90.0,261002110,True,,,,,,,,,,,,,
